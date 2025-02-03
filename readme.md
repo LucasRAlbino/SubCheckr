@@ -1,4 +1,4 @@
-# Subdomain Checker
+# SubCheckr
 
 Ferramenta para verificar o status de múltiplos subdomínios.
 
